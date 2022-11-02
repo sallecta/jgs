@@ -1,0 +1,2 @@
+# jgs
+joomla gallery plugin
